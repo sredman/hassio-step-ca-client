@@ -190,15 +190,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-config]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=133adb15_step-ca-client&repository_url=https%3A%2F%2Fgithub.com%2Fmiguelangel-nubla%2Fhassio-repository
+[addon-config]: https://my.home-assistant.io/redirect/supervisor_addon/?addon=133adb15_step-ca-client&repository_url=https%3A%2F%2Fgithub.com%2Fsredman%2Fhassio-repository
 [addon-example]: https://github.com/hassio-addons/addon-example
-[contributors]: https://github.com/miguelangel-nubla/hassio-step-ca-client/graphs/contributors
+[contributors]: https://github.com/sredman/hassio-step-ca-client/graphs/contributors
 [docs-step-ca-certificate-kty]: https://smallstep.com/docs/step-cli/reference/ca/certificate#:~:text=token%20generating%20key.-,%2D%2Dkty%3D,-kty
 [frenck]: https://github.com/frenck
-[miguelangel-nubla]: https://github.com/miguelangel-nubla
+[sredman]: https://github.com/sredman
 [pki-guide]: https://smallstep.com/docs/step-ca/getting-started
 [pki-guide-yubikey]: https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/
-[releases]: https://github.com/miguelangel-nubla/hassio-step-ca-client/releases
+[releases]: https://github.com/sredman/hassio-step-ca-client/releases
 [semver]: http://semver.org/spec/v2.0.0.html
 [step-ca]: https://smallstep.com/docs/step-ca/installation
 [tasmota-mqtt-over-tls]: https://tasmota.github.io/docs/TLS/
