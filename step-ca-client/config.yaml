@@ -17,6 +17,8 @@ arch:
   - armhf
   - armv7
   - i386
+ports:
+  80/tcp: 80 # Required to complete ACME challenge
 options:
   ca_url: https://tinyca.internal
   root_ca_fingerprint: ""
